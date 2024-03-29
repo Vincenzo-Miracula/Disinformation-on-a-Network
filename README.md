@@ -6,4 +6,5 @@ L'obiettivo principale del modello è dimostrare la diffusione della disinformaz
 Sebbene il modello sia in parte astratto, un’interpretazione plausibile potrebbe essere che ogni nodo rappresenti una persona o una fonte di informazione, e che la propagazione della disinformazione avvenga attraverso questa rete.
 
 Il modello è strutturato per rappresentare una rete sociale in cui gli individui possono trovarsi in uno dei tre stati: sensibili, influenzabili o resistenti alla disinformazione. 
+
 Utilizzando il linguaggio di programmazione NetLogo, è stato possibile definire le regole di comportamento per ciascun individuo, consentendo loro di interagire tra loro nel corso del tempo e influenzare reciprocamente lo stato degli altri individui nella rete.
